@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1699972253743' stop='1699972325382'>
+    <name>TestSuites 1</name>
+    <title>TestSuites 1</title>
+    <test-cases>
+        <test-case start='1699972253761' status='passed' stop='1699972267974'>
+            <name>TC:1, Verify navigation to url</name>
+            <title>TC:1, Verify navigation to url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972268030' status='passed' stop='1699972275892'>
+            <name>TC:2, Verify Signup page functionality</name>
+            <title>TC:2, Verify Signup page functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972275957' status='passed' stop='1699972282988'>
+            <name>TC:3; Verify Dropdown functionality</name>
+            <title>TC:3; Verify Dropdown functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972283029' status='passed' stop='1699972288464'>
+            <name>TC:4, Verify Calendar functionality</name>
+            <title>TC:4, Verify Calendar functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972288530' status='passed' stop='1699972292745'>
+            <name>TC:5, Verify Radio functionality</name>
+            <title>TC:5, Verify Radio functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972292806' status='passed' stop='1699972302577'>
+            <name>TC:6, Verify Checkbox functionality</name>
+            <title>TC:6, Verify Checkbox functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972302615' status='passed' stop='1699972308383'>
+            <name>TC:7, Verify Mouseover action</name>
+            <title>TC:7, Verify Mouseover action</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972308459' status='passed' stop='1699972310430'>
+            <name>TC:8, Verify Scroll the page up and down</name>
+            <title>TC:8, Verify Scroll the page up and down</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972310461' status='passed' stop='1699972313764'>
+            <name>TC:9, Verify Alerts functionality</name>
+            <title>TC:9, Verify Alerts functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699972313840' status='passed' stop='1699972325380'>
+            <name>TC:10, Verify forms page functionality</name>
+            <title>TC:10, Verify forms page functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

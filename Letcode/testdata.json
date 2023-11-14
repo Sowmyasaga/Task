@@ -1,0 +1,21 @@
+
+
+ {
+  "base_url": "https://letcode.in/test",
+  "name": "Sowmya",
+  "email": "sowmya2397@gmail.com",
+  "password": "123456",
+  "reg_email":"Sowmya@gmail.com",
+  "reg_password":"123456",
+  "firstname":"Admin",
+  "Lastname":"1",
+  "email1":"admin@gmail.com",
+  "phonenumber":"9876543210",
+  "address1":"CBE",
+  "address2":"CBE",
+  "state":"Tamilnadu",
+  "pin":"641006",
+  "date":"2023-11-15"
+  
+
+ }
